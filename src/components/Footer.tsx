@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
     >
       <div className="container mx-auto px-4 text-center">
         <p className="text-gray-400 dark:text-gray-400 light:text-gray-600">
-          © 2025 Haris & Co Tech School | Designed by Chemmu
+          © 2025 Haris & Co Tech School
         </p>
       </div>
     </motion.footer>
